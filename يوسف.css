@@ -1,0 +1,114 @@
+body{
+    background-color: blue;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.pp a{
+    color: chartreuse;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-position:center;
+}
+
+
+.pp h1{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pp h2{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pp h3{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pp h4{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+   
+}
+.pp h5{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pp h6{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.pp p{
+    color: black;
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.vv h1{
+        color: black;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .vv h2{
+        color: black;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .vv h3{
+        color: black;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .vv h4{
+        color: black;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .vv a{
+        color: chartreuse;
+        font-size: 2em;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        background-position:center;
+    }

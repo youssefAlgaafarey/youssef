@@ -1,0 +1,66 @@
+*{-webkit-box-sizing: "border-box" }
+
+body{
+    background: #f3f3f3;
+    font-family: Arial;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items:center ;
+    background:url(yss.jpeg)no-repeat;
+    background-size: 100% 100%;
+    background-position:center;
+    background-attachment:fixed;
+}
+      
+
+
+form{
+    width: 450px;
+    height: 500px;
+    border: 1px solid #ff0000;
+    border-radius: 20px;
+    margin: 50px auto;
+}
+h2{
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    
+}
+input[type="text"] , [type="password"]{
+    width: 300px;
+    height: 60px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    border: 1px solid #ff0000;
+    border-radius: 10px;
+    outline: none;
+}
+input[type="checkbox"]{
+    margin:  15px 0 20px 80px;
+    color: #ff0000;
+}
+input[type="checkbox"]:after{
+    content: "اظهار كلمة المرور";
+    color: #ff0000;
+    line-height: 1;
+    position: absolute;
+    left: 560px;
+}
+
+
+inputp[type="checkb"]{
+    color: #ff0000;
+}
+input[type="submit"]{
+    width: 150px;
+    height: 60px;
+    margin-left: 150px;
+    border: 1px solid #0011ff;
+    border-radius: 10px;
+    color: #00baff;
+    font-size: 30px;
+
+}
